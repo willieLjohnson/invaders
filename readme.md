@@ -1,7 +1,7 @@
 # Cmake for Raylib
 
-`bash
+```bash
 mkdir build
 cmake -S . -B build
 cd build && make
-`
+```
